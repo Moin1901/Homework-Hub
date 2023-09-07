@@ -21,6 +21,7 @@ const CustomNavbar = () => {
       const result = await logout();
       console.log(result);
       context.setUser(undefined);
+
       router.push("/login");
     } catch (error) {
       console.log(error);

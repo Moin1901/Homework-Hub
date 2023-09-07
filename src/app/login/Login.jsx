@@ -42,9 +42,12 @@ const Login = () => {
   };
 
   return (
-    <div className="grid grid-cols-12">
-      <div className="col-span-4 col-start-5 ">
-        <div className="py-5"></div>
+    <div
+      className="grid grid-cols-1 y
+     md:grid-cols-12 justify-center"
+    >
+      <div className="col-span-4 col-start-5">
+        <div className="my-8 flex justify-center m-5"></div>
 
         <h1 className="text-3xl text-center">Login Here </h1>
 
