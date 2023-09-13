@@ -55,7 +55,7 @@ const Login = () => {
           <div className="mt-3">
             <label
               htmlFor="user_email"
-              className="block text-sm font-medium mb-2 ps-2"
+              className="block text-sm font-medium mb-2 ps-2 "
             >
               Email
             </label>

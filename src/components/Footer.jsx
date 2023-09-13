@@ -14,25 +14,26 @@ const Footer = () => {
           <h2 className="text-lg font-semibold mb-2">Follow Us</h2>
           <div className="flex justify-center md:justify-start space-x-4">
             <a
-              href="#"
+              href="https://leetcode.com/mdmoinuddin1901/"
               className="text-blue-400 hover:text-blue-500 transition duration-300"
             >
-              Facebook
+              Leetcode
             </a>
             <a
-              href="#"
+              href="https://moin1901.github.io/My-Animated-portfolio/"
+              className="text-blue-400 hover:text-blue-500 transition duration-300"
+            >
+              Portfolio
+            </a>
+            <a
+              href="https://www.instagram.com/mdmoin1901/"
               className="text-blue-400 hover:text-blue-500 transition duration-300"
             >
               Instagram
             </a>
+
             <a
-              href="#"
-              className="text-blue-400 hover:text-blue-500 transition duration-300"
-            >
-              Youtube
-            </a>
-            <a
-              href="#"
+              href="https://www.linkedin.com/in/md-moinuddin-7ba262220/?trk=public_profile_samename-profile&originalSubdomain=in"
               className="text-blue-400 hover:text-blue-500 transition duration-300"
             >
               Linkedin
